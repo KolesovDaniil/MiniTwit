@@ -1,4 +1,4 @@
-#!/home/daniil/PythonProjects/microblog/venv/bin/python
+#!/home/daniil/PythonProjects/flask_proj/venv/bin/python
 
 import sys
 import getopt

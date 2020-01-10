@@ -1,4 +1,4 @@
-#!/home/daniil/PythonProjects/microblog/venv/bin/python2
+#!/home/daniil/PythonProjects/flask_proj/venv/bin/python2
 # -*- coding: utf-8 -*-
 import re
 import sys
